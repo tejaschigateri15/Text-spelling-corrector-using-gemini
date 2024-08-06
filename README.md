@@ -44,8 +44,4 @@ This repository contains a simple text spelling corrector implemented in Python.
 2. Select the text you want to correct and press `F10` to correct the text. The corrected text will be copied back to your clipboard and pasted in place of the original text.
 
 3. Press `Esc` to stop the hotkey listener.
-
-## License
-
-This project is licensed under the MIT License.
-
+   
