@@ -52,8 +52,4 @@ with Listener(on_press=on_press) as listener:
 
 print('Hotkey listener stopped.')
 
-# I love you so much.
-
-
-
 
